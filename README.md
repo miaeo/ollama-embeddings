@@ -34,7 +34,7 @@ No Powershell, ative seu ambiente virtual
 .\venv\Scripts\Activate.ps1
 ```
 
-### 4. Instale as dependências
+### 3. Instale as dependências
 
 ```bash
 pip install -r requirements.txt
