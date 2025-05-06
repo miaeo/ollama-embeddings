@@ -50,7 +50,7 @@ Certifique-se de que o Ollama esteja rodando antes de executar o script!
 ollama run llama2
 ```
 
-### 2. Execute o script
+### 2. Em outro terminal, execute o script
 
 ```bash
 python embeddings_ollama.py
