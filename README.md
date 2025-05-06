@@ -28,7 +28,7 @@ cd ollama-embeddings-projeto
 ```bash
 python -m venv venv
 ```
-Ative o ambiente virtual, no Powershell
+No Powershell, ative seu ambiente virtual
 
 ```bash
 .\venv\Scripts\Activate.ps1
