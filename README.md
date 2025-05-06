@@ -1,6 +1,6 @@
 # ollama-embeddings
 
-Projeto simples de geração e manipulação de **embeddings de texto** utilizando o modelo `mxbai-embed-large` com **Ollama** em ambiente local, para projeto de Tópicos Avançados em Sistemas para Internet I, do curso de Sistemas para Internet.
+Projeto simples de geração e manipulação de **embeddings de texto** utilizando o modelo `mxbai-embed-large` com **Ollama** em ambiente local, para projeto de Tópicos Avançados em Sistemas para Internet I.
 
 ---
 
